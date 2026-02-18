@@ -5,7 +5,7 @@ export default function Meta() {
     return (
         <Head>
            /* Primary Meta Tags */
-            <title> - The Name's The Book</title>
+            <title> - The Name’s The Book Is On The Table</title>
             <meta charSet="utf-8" />
             <meta name="title" content="ley malam Portfolio - Computer Engineering Student" />
             <meta name="description"
