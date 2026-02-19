@@ -125,7 +125,7 @@ function About() {
                 <li className=" list-pc"><span className=" font-medium">Blockchain Vault</span> Secure decentralized storage solution using advanced encryption and distributed ledger technology.</li>
                 <li className=" mt-3 list-building">I enjoy delving into cybersecurity research and practicing ethical hacking techniques. </li>
                 <li className=" mt-3 list-time">When I'm not immersed in cybersecurity, you'll find me diving into Movies, exploring CyberSecurity forums, or watching informative CyberSecurity channels like<a href="https://www.youtube.com/@davidbombal" target="_blank" rel="noreferrer"> David Bombal's videos.</a></li>
-                <li className=" mt-3 list-star"> My interests extend to utilizing electronic components and designing web applications.</li>
+                <li className=" mt-3 list-star"> Augmented reality system for immersive data visualization and interactive experiences.</li>
             </ul>
         </>
     )
