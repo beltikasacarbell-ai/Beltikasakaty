@@ -114,7 +114,7 @@ function About() {
                 <img className="w-full" src="./images/logos/bitmoji.png" alt="Vivek Patel Logo" />
             </div>
             <div className=" mt-4 md:mt-8 text-lg md:text-2xl text-center px-1">
-                <div>tps<span className="font-bold">kh</span> ,</div>
+                <div>tps <span className="font-bold">kh</span> ,</div>
                 <div className="font-normal ml-1">hi people, <span className="text-pink-600 font-bold">CyberSecurity Researcher!</span></div>
             </div>
             <div className=" mt-4 relative md:my-8 pt-px bg-white w-32 md:w-48">
