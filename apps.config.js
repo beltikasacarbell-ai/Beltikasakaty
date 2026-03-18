@@ -29,7 +29,7 @@ const apps = [
     },
     {
         id: "about-aslam",
-        title: "About Aslam",
+        title: "About ",
         icon: './themes/Yaru/system/mc-home-logo.png',
         disabled: false,
         favourite: true,
