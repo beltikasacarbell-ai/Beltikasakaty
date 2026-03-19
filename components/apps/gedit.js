@@ -81,7 +81,7 @@ export class Gedit extends Component {
                     <span>medium</span>
                 </a>
                 <a href="https://discord.gg/96fThXW3" className="flex flex-col h-max justify-center items-center" target="_blank">
-                    <img src="/images/logos/discord.png" className="h-16 w-16"></img>
+                    <img src="/images/logos/Tiktok.jpg" className="h-16 w-16"></img>
                     <span>discord</span>
                 </a>
             </div>
