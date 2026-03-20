@@ -69,7 +69,7 @@ export class Gedit extends Component {
         return (
             <div className="w-full h-full relative flex gap-5 p-5  bg-[#282c34] text-white select-none ">
                 <a href="https://www.facebook.com" className="flex flex-col h-max justify-center items-center" target="_blank">
-                    <img src="/images/logos/facebook.png" className="h-16 w-16"></img>
+                    <img src="/images/logos/Facebook.png" className="h-16 w-16"></img>
                     <span classname="text-center">Facebook</span>
                 </a>
                 <a href="Cardamzre@gmail.com" className="flex flex-col h-max justify-center items-center"  target="_blank">
