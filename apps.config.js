@@ -55,13 +55,13 @@ const apps = [
         screen: displayTerminal,
     },
     {
-        id: "spotify",
-        title: "Spotify",
-        icon: './themes/Yaru/apps/spotify.png',
+        id: "nmap",
+        title: "Nmap",
+        icon: './themes/Yaru/apps/nmap.png',
         disabled: false,
         favourite: true,
         desktop_shortcut: false,
-        screen: displaySpotify, // India Top 50 Playlist 😅
+        screen: displaNmap, // nmap
     },
     {
         id: "settings",
