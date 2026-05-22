@@ -6,6 +6,6 @@ export default function Nmap() {
     )
 }
 
-export const displayNmap = () => {
-    <Nmap> </Nmap>
+export const displayburpsuite = () => {
+    <burpsuite> </burpsuite>
 }
