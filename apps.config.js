@@ -1,4 +1,4 @@
-import displaySpotify from './components/apps/spotify';
+import displaySpotify from './components/apps/burpsuite';
 import displayVsCode from './components/apps/vscode';
 import { displayTerminal } from './components/apps/terminal';
 import { displaySettings } from './components/apps/settings';
@@ -7,7 +7,6 @@ import { displayTrash } from './components/apps/trash';
 import { displayGedit } from './components/apps/gedit';
 import { displayAboutVivek } from './components/apps/vivek';
 import { displayTerminalCalc } from './components/apps/calc';
-import displayBurpsuite './components/apps/burpsuite';
 const apps = [
     {
         id: "chrome",
