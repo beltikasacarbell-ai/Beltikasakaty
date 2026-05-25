@@ -54,14 +54,13 @@ const apps = [
         desktop_shortcut: false,
         screen: displayTerminal,
     },
-    {
-        id: "nmap",
-        title: "Nmap",
-        icon: './themes/Yaru/apps/nmap.png',
+    {id: "burpsuite",
+        title: "Burpsuite",
+        icon: './themes/Yaru/apps/burpsuite.png',
         disabled: false,
         favourite: true,
         desktop_shortcut: false,
-        screen: displaNmap, // nmap
+        screen: displayBurpsuite,
     },
     {
         id: "settings",
@@ -89,15 +88,6 @@ const apps = [
         favourite: false,
         desktop_shortcut: true,
         screen: displayGedit,
-    },
-    {
-        id: "burpsuite",
-        title: "Burpsuite",
-        icon: './themes/Yaru/apps/burpsuite.png',
-        disabled: false,
-        favourite: true,
-        desktop_shortcut: false,
-        screen: displayBurpsuite,
     },
 ]
 
