@@ -1,4 +1,4 @@
-import displaySpotify from './components/apps/';
+import displayNmap from './components/apps/';
 import displayVsCode from './components/apps/vscode';
 import { displayTerminal } from './components/apps/terminal';
 import { displaySettings } from './components/apps/settings';
@@ -55,13 +55,13 @@ const apps = [
         screen: displayTerminal,
     },
     {
-        id: "spotify",
-        title: "Spotify",
-        icon: './themes/Yaru/apps/spotify.png',
+        id: "nmap",
+        title: "Nmap",
+        icon: './themes/Yaru/apps/nmap.png',
         disabled: false,
         favourite: true,
         desktop_shortcut: false,
-        screen: displaySpotify, // India Top 50 Playlist 😅
+        screen: displayNmap, // nmap
     },
     {
         id: "settings",
