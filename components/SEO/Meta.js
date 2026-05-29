@@ -5,7 +5,7 @@ export default function Meta() {
     return (
         <Head>
            /* Primary Meta Tags */
-            <title> - 🥷🏻</title>
+            <title> Kali </title>
             <meta charSet="utf-8" />
             <meta name="title" content="hi people Portfolio - Computer Engineering Student" />
             <meta name="description"
