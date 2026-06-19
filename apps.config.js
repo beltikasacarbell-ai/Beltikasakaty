@@ -55,13 +55,13 @@ const apps = [
         screen: displayTerminal,
     },
     {
-        id: "nmap",
-        title: "Nmap",
-        icon: './themes/Yaru/apps/nmap.png',
+        id: "ui interface",
+        title: "Ui interface",
+        icon: './themes/Yaru/apps/ui interface.png',
         disabled: false,
         favourite: true,
         desktop_shortcut: false,
-        screen: displayNmap, // nmap
+        screen: displayUiinterface , // ui interface
     },
     {
         id: "settings",
