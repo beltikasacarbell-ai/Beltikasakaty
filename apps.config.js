@@ -55,13 +55,13 @@ const apps = [
         screen: displayTerminal,
     },
     {
-        id: "ui interface",
-        title: "Ui interface",
-        icon: './themes/Yaru/apps/ui interface.png',
+        id: "uiinterface",
+        title: "Uiinterface",
+        icon: './themes/Yaru/apps/uiinterface.  png',
         disabled: false,
         favourite: true,
         desktop_shortcut: false,
-        screen: displayUiinterface , // ui interface
+        screen: displayUiinterface , // uiinterface
     },
     {
         id: "settings",
