@@ -57,7 +57,7 @@ const apps = [
     {
         id: "uiinterface",
         title: "Uiinterface",
-        icon: './themes/Yaru/apps/uiinterface.  png',
+        icon: './themes/Yaru/apps/uiinterface.png',
         disabled: false,
         favourite: true,
         desktop_shortcut: false,
