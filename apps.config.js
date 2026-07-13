@@ -55,13 +55,13 @@ const apps = [
         screen: displayTerminal,
     },
     {
-        id: "uiinterface",
-        title: "Uiinterface",
-        icon: './themes/Yaru/apps/uiinterface.png',
+        id: "burpsuite",
+        title: "Burpsuite",
+        icon: './themes/Yaru/apps/burpsuite.png',
         disabled: false,
         favourite: true,
         desktop_shortcut: false,
-        screen: displayUiinterface , // uiinterface
+        screen: displayBurpsuite , // Burpsuite
     },
     {
         id: "settings",
