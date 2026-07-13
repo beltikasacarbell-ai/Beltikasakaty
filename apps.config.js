@@ -1,4 +1,4 @@
-import displayUiinterface from './components/apps/uiinterface';
+import displayBurpsuite from './components/apps/burpsuite';
 import displayVsCode from './components/apps/vscode';
 import { displayTerminal } from './components/apps/terminal';
 import { displaySettings } from './components/apps/settings';
