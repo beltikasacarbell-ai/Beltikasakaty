@@ -1,11 +1,11 @@
 import React from 'react'
 
-export default function gemini() {
+export default function Gemini() {
     return (
-        <iframe src="https://www.ui.com" frameBorder="0" title="Burpsuite" className="h-full w-full bg-ub-cool-grey"></iframe>
+        <iframe src="https://gemini.google.com/app" frameBorder="0" title="Burpsuite" className="bg-[#fdfcfc] dark:bg-[#131314"></iframe>
     )
 }
 
-export const displayBurpsuite = () => {
-    <Burpsuite> </Burpsuite>
+export const displayGemini = () => {
+    <Gemini> </Gemini>
 }
