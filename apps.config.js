@@ -1,4 +1,4 @@
-import displayBurpsuite from './components/apps/burpsuite';
+import displayGemini from './components/apps/gemini';
 import displayVsCode from './components/apps/vscode';
 import { displayTerminal } from './components/apps/terminal';
 import { displaySettings } from './components/apps/settings';
@@ -55,13 +55,13 @@ const apps = [
         screen: displayTerminal,
     },
     {
-        id: "burpsuite",
-        title: "Burpsuite",
-        icon: './themes/Yaru/apps/burpsuite.png',
+        id: "gemini",
+        title: "Gemini",
+        icon: './themes/Yaru/apps/gemini.png',
         disabled: false,
         favourite: true,
         desktop_shortcut: false,
-        screen: displayBurpsuite , // Burpsuite
+        screen: displayGemini , // Gemini
     },
     {
         id: "settings",
