@@ -55,7 +55,7 @@ const apps = [
         screen: displayTerminal,
     },
     {
-        id: "geminigenerate",
+        id: "gemini",
         title: "Generate",
         icon: './themes/Yaru/apps/gemini.png',
         disabled: false,
