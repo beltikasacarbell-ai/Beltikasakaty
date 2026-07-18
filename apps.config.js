@@ -56,7 +56,7 @@ const apps = [
     },
     {
         id: "gemini",
-        title: "Gemini",
+        title: "Gemi",
         icon: './themes/Yaru/apps/gemini.png',
         disabled: false,
         favourite: true,
