@@ -1,4 +1,4 @@
-import displayGenerate from './components/apps/generate';
+import displayGemini from './components/apps/gemini';
 import displayVsCode from './components/apps/vscode';
 import { displayTerminal } from './components/apps/terminal';
 import { displaySettings } from './components/apps/settings';
@@ -56,12 +56,12 @@ const apps = [
     },
     {
         id: "gemini",
-        title: "Generate",
+        title: "Gemini",
         icon: './themes/Yaru/apps/gemini.png',
         disabled: false,
         favourite: true,
         desktop_shortcut: false,
-        screen: displayGenerate , // Generate
+        screen: displayGemini , // Gemini
     },
     {
         id: "settings",
