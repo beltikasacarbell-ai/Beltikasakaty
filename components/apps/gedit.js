@@ -78,7 +78,7 @@ export class Gedit extends Component {
                 </a>
                 <a href="https://www.facebook.com/share/1EMGvc7LSn/?mibextid=wwXIfr" className="flex flex-col h-max justify-center items-center" target="_blank">
                     <img src="/images/logos/Facebook.jpg" className="h-16 w-16"></img>
-                    <span>Face</span>
+                    <span>Medium</span>
                 </a>
                 <a href="https://www.tiktok.com/@beltikasakati" className="flex flex-col h-max justify-center items-center" target="_blank">
                     <img src="/images/logos/Tiktok.jpg" className="h-16 w-16"></img>
