@@ -70,7 +70,7 @@ export class Gedit extends Component {
             <div className="w-full h-full relative flex gap-5 p-5  bg-[#282c34] text-white select-none ">
                 <a href="https://www.facebook.com/share/17mQ4zU6th/?mibextid=wwXIfr" className="flex flex-col h-max justify-center items-center" target="_blank">
                     <img src="/images/logos/faceboo.png" className="h-16 w-16"></img>
-                    <span classname="text-center">Face</span>
+                    <span classname="text-center">face</span>
                 </a>
                 <a href="Beltikasacarbell@gmail.com" className="flex flex-col h-max justify-center items-center"  target="_blank">
                     <img src="/images/logos/email.png" className="h-16 w-16"></img>
@@ -78,11 +78,11 @@ export class Gedit extends Component {
                 </a>
                 <a href="https://medium.com/share/1EMGvc7LSn/?mibextid=wwXIfr" className="flex flex-col h-max justify-center items-center" target="_blank">
                     <img src="/images/logos/medium.png" className="h-16 w-16"></img>
-                    <span>Medium</span>
+                    <span>medium</span>
                 </a>
                 <a href="https://www.tiktok.com/@beltikasakati" className="flex flex-col h-max justify-center items-center" target="_blank">
                     <img src="/images/logos/Tiktok.jpg" className="h-16 w-16"></img>
-                    <span>Tok</span>
+                    <span>tok</span>
                 </a>
             </div>
         )
