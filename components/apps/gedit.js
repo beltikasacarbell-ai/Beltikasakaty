@@ -68,9 +68,9 @@ export class Gedit extends Component {
     render() {
         return (
             <div className="w-full h-full relative flex gap-5 p-5  bg-[#282c34] text-white select-none ">
-                <a href="https://www.facebook.com/share/17mQ4zU6th/?mibextid=wwXIfr" className="flex flex-col h-max justify-center items-center" target="_blank">
-                    <img src="/images/logos/faceboo.png" className="h-16 w-16"></img>
-                    <span classname="text-center">face</span>
+                <a href="https://web.telegram.org" className="flex flex-col h-max justify-center items-center" target="_blank">
+                    <img src="/images/logos/telegram.png" className="h-16 w-16"></img>
+                    <span classname="text-center">tlg</span>
                 </a>
                 <a href="Beltikasacarbell@gmail.com" className="flex flex-col h-max justify-center items-center"  target="_blank">
                     <img src="/images/logos/email.png" className="h-16 w-16"></img>
