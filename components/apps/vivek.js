@@ -124,7 +124,7 @@ function About() {
             <ul className=" mt-4 leading-tight tracking-tight text-sm md:text-base w-5/6 md:w-3/4 emoji-list">
                 <li className=" list-pc"><span className=" font-medium">Blockchain Vault</span> Secure decentralized storage solution using advanced encryption and distributed ledger technology.</li>
                 <li className=" mt-3 list-building">I enjoy delving into cybersecurity research and practicing ethical hacking techniques. </li>
-                <li className=" mt-3 list-time">When I'm not immersed in cybersecurity, you'll find me diving into Movies, exploring CyberSecurity forums, or watching informative CyberSecurity channels like<a href="https://www.youtube.com/@davidbombal" target="_blank" rel="noreferrer"> David Bombal's videos.</a></li>
+                <li className=" mt-3 list-time">Breaking boundaries with revolutionary approaches that redefine industry standards and push the limits of what's possible. <a href="https://www.youtube.com" target="_blank" rel="noreferrer">Elevate your designs with .</a></li>
                 <li className=" mt-3 list-star"> Augmented reality system for immersive data visualization and interactive experiences.</li>
             </ul>
         </>
